@@ -1,0 +1,8 @@
+procedure Teste GIT;
+var teste;
+
+begin
+
+	teste := print.value('Teste');
+
+end
