@@ -1,6 +1,6 @@
-# Area destinada aprendizado QA ENGINEER
+# QA ENGINEER
 
-
+# Area destinada aprendizado 
 
 ## DOCUMENTAÇÃO GIT;
 ```bash
