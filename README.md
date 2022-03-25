@@ -1,3 +1,5 @@
+
+![Alt text](./imagens/imagem1.gif "O futuro se faz agora")
 # QA ENGINEER
 
 ### Area destinada aprendizado 
@@ -8,24 +10,6 @@
 </p>
  
 
-![Alt text](./imagens/imagem1.gif "Title");
-## Para testar:
-
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png"/>
-</p>
-<p align="center">
-  <a href="https://docs.cypress.io/api/api/table-of-contents.html">Documentação</a>
-</p>
-
-<h3 align="center">
-  A web evoluiu. Finalmente, o teste também.
-</h3>
-
-<p align="center">
-  Teste rápido, fácil e confiável para qualquer coisa executada em um navegador.
-</p>
-
 
 1. Para abrir o dashboad dos testes
 ```bash
@@ -35,4 +19,4 @@ npm run cy
 ```bash
 npm run cyrun
 ```
-![installing-cli e1693232](https://user-images.githubusercontent.com/1271364/31740846-7bf607f0-b420-11e7-855f-41c996040d31.gif)
+![installing-cli e1693232](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tecmundo.com.br%2Fmercado%2F131471-pensou-ter-gifs-estilo-ascii-tenor.htm&psig=AOvVaw2psI4b4uNbFe0QKslqprMX&ust=1648262147601000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLif25Gd4PYCFQAAAAAdAAAAABBJ)
