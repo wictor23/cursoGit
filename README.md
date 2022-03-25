@@ -3,7 +3,7 @@
 ![Alt text](./imagens/matrix.gif "O futuro se faz agora")
 
 
-### Area destinada aprendizado 
+### Área destinada aprendizado 
 
 ### Documentação GitHub
 <p align="left">
