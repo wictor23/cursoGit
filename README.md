@@ -1,8 +1,8 @@
 # QA ENGINEER
 
-# Area destinada aprendizado 
+### Area destinada aprendizado 
 
-## DOCUMENTAÇÃO GIT;
+### DOCUMENTAÇÃO GIT;
 ```bash
   https://docs.github.com/pt/get-started/using-git/pushing-commits-to-a-remote-repository
 ```
