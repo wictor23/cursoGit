@@ -3,18 +3,10 @@
 ### Area destinada aprendizado 
 
 ### Documentação Git oficial;
-<p align="center">
+<p align="left">
   <a href="https://docs.github.com/pt/get-started/using-git/pushing-commits-to-a-remote-repository">Documentação</a>
 </p>
  
-
-
-
-1. Instale as dependências
-```bash
-yarn install
-```
-
 
 ![Alt text](./image/home.png "Title");
 ## Para testar:
