@@ -5,7 +5,7 @@
 
 ### Area destinada aprendizado 
 
-### Documentação Git oficial
+### Documentação GitHub
 <p align="left">
   <a href="https://docs.github.com/pt/get-started/using-git/pushing-commits-to-a-remote-repository">Documentação</a>
 </p>
