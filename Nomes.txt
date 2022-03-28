@@ -1,3 +1,7 @@
 - Victor Hugo
 - Wictor
+<<<<<<< HEAD
 - Hevodya
+=======
+- Jefferson
+>>>>>>> 81cf7c292b16d81086dc87f5ddcce97ccd5b37e3
