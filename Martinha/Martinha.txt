@@ -1,3 +1,5 @@
+Martinha
+
 programa
 {
         
@@ -21,11 +23,5 @@ programa
      inteiro ano
                 escreva(" informe o ano: ") 
                 leia (ano)
-                inteiro anoAtual, anoNas
-                escreva ("digite seu ano atual e ano de nascimento:")
-                leia (anoAtual, anoNas)
-                idade = anoAtual - anoNas
-                escreva ("o usuário possui", idade, "anos.\n\n")
         }
-
 }
