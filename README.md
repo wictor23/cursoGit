@@ -13,6 +13,10 @@
  Principais comandos Git
 ```bash
 Git pull
+Git push
+Git merge
+Git fetch
+Git stash
 Git status
 Git add
 git commit
