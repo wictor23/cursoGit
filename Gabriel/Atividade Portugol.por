@@ -27,7 +27,7 @@ programa
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
- * 123456
+ * 123456789
  * @POSICAO-CURSOR = 532; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
