@@ -17,7 +17,7 @@ programa
 			escreva("Olá ",nome,". Sua CNH foi autorizada e já pode ser solicitada desde o ano ",anoinicio,".")
 			}
 			senao {
-				escreva("Olá ",nome,". Sua CNH não foi autorizada devido à sua idade.")
+				escreva("Olá ",nome,". Sua CNH não foi autorizada devido à sua idade inferior.")
 				escreva("Você poderá solicitá-la a partir de ",anoinicio,". Favor, aguardar.")}		
 	}
 }
