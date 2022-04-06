@@ -1,1 +1,53 @@
+programa
+{
+        
+        funcao inicio()
+        {
+    
+        cadeia nome
+                escreva("Informe o seu nome: ")
+                leia (nome)
+     inteiro idade
+                escreva("Informe a sua idade: ")
+                leia (idade)
+                se(idade < 0) {
+                        escreva("Idade inválida (",idade,")")
+                }
+                senao se(idade < 18) {
+                escreva(" Olá, " , nome , ", você ainda não pode tirar a carteira!")
+                }senao se(idade >= 18) {
+                        escreva(" Olá, " ,nome , ", você já pode tirar a carteira!")
+                        } 
+     inteiro ano
+                escreva(" informe o ano: ") 
+                leia (ano)
+        }
+}
+-------
+=======
 Martinha
+
+programa
+{
+        
+        funcao inicio()
+        {
+    
+        cadeia nome
+                escreva("Informe o seu nome: ")
+                leia (nome)
+     inteiro idade
+                escreva("Informe a sua idade: ")
+                leia (idade)
+                se(idade < 0) {
+                        escreva("Idade inválida (",idade,")")
+                }
+                senao se(idade < 18) {
+                escreva(" Olá, " , nome , ", você ainda não pode tirar a carteira!")
+                }senao se(idade >= 18) {
+                        escreva(" Olá, " ,nome , ", você já pode tirar a carteira!")
+                        } 
+     inteiro ano
+                escreva(" informe o ano: ") 
+                leia (ano)
+        }
