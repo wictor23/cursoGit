@@ -18,7 +18,7 @@ programa
 			}
 			senao {
 				escreva("Olá ",nome,". Sua CNH não foi autorizada devido à sua idade.")
-				escreva("Você poderá solicitá-la a partir de ",anoinicio,". Favor, aguardar.")}		
+				escreva("Você poderá solicitá-la a partir de ",anoinicio,". Favor, aguardar um pouco.")}		
 	}
 }
 /* $$$ Portugol Studio $$$ 
