@@ -1,1 +1,30 @@
 // Jefferson Bruno Evangelista Santos - Mentoria Nivelamento de Conhecimento - 25/03/2022
+
+//programa CNH 06/04/2022
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia nome
+		inteiro idade
+		inteiro anoIni
+		inteiro anoAtual = 2022
+			escreva ("INFORME SEU NOME: ")
+			leia (nome)
+			escreva ("INFORME SUA IDADE: ")
+			leia (idade)
+			limpa ()
+			anoIni = anoAtual - idade + 18
+			se (idade >= 18)
+			{
+				escreva ("OLÁ ", nome, "! VOCÊ JÁ ESTÁ HABILITADO PARA TIRAR SUA CNH, " )
+				escreva ("PROCESSO JÁ PODERIA SER INICIADO NO ANO: \n--->", anoIni ," LEGAL!" )
+			}
+				senao
+					{
+						escreva ("OLÁ ", nome, "! VOCÊ NÃO ESTA HABILITADO PARA TIRAR SUA CNH, " )
+						escreva ("PROCESSO PODE SER INICIADO NO ANO: \n---->", anoIni , " FALTA POUCO!")
+					}
+	}
+}
