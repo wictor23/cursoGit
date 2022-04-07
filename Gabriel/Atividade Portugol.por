@@ -23,7 +23,7 @@ programa
 	}
 }
 /* $$$ Portugol Studio $$$ 
- * 987654
+ * 987654321
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 123456
