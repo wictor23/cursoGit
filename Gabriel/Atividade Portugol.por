@@ -5,7 +5,11 @@ programa
 		cadeia nome
 		inteiro idade
 		inteiro anoinicio
-		inteiro anoatual = 2022 
+		inteiro anoatual = 2022
+		inteiro anonasc
+		logico anopar 
+		inteiro valida
+		inteiro valida2
 
 		escreva("Informe seu nome: ")
 		leia(nome)
@@ -19,18 +23,26 @@ programa
 			senao {
 
 				escreva("Olá ",nome,". Sua CNH não foi autorizada devido à sua idade.")
-				escreva("Você poderá solicitá-la a partir de ",anoinicio,". Favor, aguardar um pouco.")}	
+				escreva("Você poderá solicitá-la a partir de ",anoinicio,". Favor, aguardar um pouco.")}
+
+          se (idade <18){valida = anoatual valida2 = anoinicio} senao {valida = anoinicio valida2 = anoatual}
+          
+          enquanto (valida <= valida2) {
+          	escreva("")
+          	valida = valida +1          	
+          	}
+
+                					
 	}
 }
 /* $$$ Portugol Studio $$$ 
- * 987654321
+ * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
- * 123456
- * @POSICAO-CURSOR = 565; 
+ * 
+ * @POSICAO-CURSOR = 896; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
+ * @SIMBOLOS-INSPECIONADOS = {valida, 11, 10, 6};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- * teste 123456789
  */
