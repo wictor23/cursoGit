@@ -17,6 +17,7 @@ programa
 		escreva("Informe a sua idade: ")
 		leia(idade)
 		anoinicio = anoatual - idade + 18	
+		limpa()
 			
 		se (idade >=18){
 			escreva("Olá ",nome,". Sua CNH foi autorizada e já pode ser solicitada desde o ano ",anoinicio,".")
@@ -54,7 +55,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 450; 
+ * @POSICAO-CURSOR = 923; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
