@@ -21,7 +21,4 @@ Git status
 Git add
 git commit
 ```
-
-
-![Alt text](./imagens/igm.gif "Let´s go!")
-
+![github contribution grid snake animation](https://github.com/wictor23/cursoGit/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
