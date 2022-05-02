@@ -37,7 +37,7 @@ programa
           escreva("Anos pares: ")	
           enquanto (valida <= valida2) {          	
  			se (valida % 2 == 0){anopar=verdadeiro} senao {anopar=falso}			
- 			se (anopar==verdadeiro) {escreva(valida + " / ")}
+ 			se (anopar) {escreva(valida + " / ")}
  			valida = valida+1}
  			
  		se (idade <18){valida = anoatual valida2 = anoinicio} senao {valida = anoinicio valida2 = anoatual}		
@@ -55,7 +55,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 923; 
+ * @POSICAO-CURSOR = 1058; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
