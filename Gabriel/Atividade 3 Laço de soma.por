@@ -9,7 +9,7 @@ programa
 	      inteiro falta = 9
 
 		enquanto (contador <=9) {
-			escreva ("Soma atual: " + total + ". Faltam " + falta + " números. Próximo número: ")
+			escreva ("Soma atual: " + total + ". \nFaltam " + falta + " números. \nPróximo número: ")
 			leia (numero)
 			total = total +numero
 			contador = contador+1
@@ -26,7 +26,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 237; 
+ * @POSICAO-CURSOR = 404; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

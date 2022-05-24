@@ -19,6 +19,7 @@ programa
 				limpa ()
 				escreva ("Última volta? (S/N): ")
 				leia (fim)
+				
 				enquanto (nao(fim == 'S' ou fim == 'N')) {
 					limpa()
 					escreva ("Valor inválido. Informe S ou N. \n")
@@ -33,7 +34,7 @@ programa
 		escreva ("Média por volta: " + media)	
 		escreva ("\n")
 
-		se (media >10) {escreva ("Você ainda precisa treinar mais")}
+		se (media >10) {escreva ("Você ainda precisa treinar mais.")}
 			senao {escreva("Parabéns, você já está pronto pra ser um campeão!")}
 	}
 }
@@ -42,7 +43,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 550; 
+ * @POSICAO-CURSOR = 305; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
