@@ -8,7 +8,7 @@ programa
 		
 	funcao retornamenuinicial(){
 		
-		inteiro opcao
+		inteiro opcao 
 
 		limpa()
 		
@@ -22,6 +22,17 @@ programa
 
 	    	escreva("Para iniciar seu atendimento, digite a opção desejada:\n")
 	    	leia(opcao)
+	    	
+	    	/*enquanto (opcao == "") {limpa()
+	    						escreva("Opção inválida\n\n")	    	
+	    						escreva("Olá. Seja bem vindo ao banco digital! \n\n")		    
+						 	escreva("1 - Para empréstimos\n")
+						   	escreva("2 - Para investir\n")
+					   		escreva("3 - Para câmbio do dólar\n")
+						    	escreva("4 - Para horário de atendimento\n")
+						    	escreva("5 - Para sair\n\n")
+						    	leia(opcao)}*/
+						    
 
 	   	 enquanto (opcao <1 ou opcao >5) 
     			{limpa()
@@ -124,8 +135,9 @@ programa
 								investimentos_calc(3)}
 					se(novaopcao==4){
 								limpa()
-								escreva("Aposta tudo em mim.")}
-								finalizacao()
+								escreva("Aposta tudo em mim.")
+								finalizacao()}
+								
 					se(novaopcao==9){
 								limpa()
 								retornamenuinicial()}
@@ -241,25 +253,18 @@ programa
 					}
 			se (valida == "n" ou valida == "N") 
 			{	limpa()
-				escreva("Obrigado pelo contato. Seu atendimento foi finalizado")}
+				escreva("Obrigado pelo contato. Seu atendimento foi finalizado")
+				
+				}
 				senao {retornamenuinicial()}
-			
-			
-
-	
-	}
-	
-	
-
-	
-
+				}
 }
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 5779; 
+ * @POSICAO-CURSOR = 7420; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
